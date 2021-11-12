@@ -1,0 +1,22 @@
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: darkgray;
+    
+}
+ul li{
+    list-style-type: square;
+}
+ol li{
+    list-style-type: upper-roman;
+}
+ul span{
+    color: red;
+}
+ul li span{
+    color: red;
+    font-weight: bold;
+}
+span{
+    color: blue;
+    }

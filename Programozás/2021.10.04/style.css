@@ -1,0 +1,27 @@
+@font-face {
+    font-family: akronim-regular;
+    src: url(Akronim-Regular.ttf);
+}
+html{
+    font-size: 4px;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+#második{
+    color: blue;
+    border: 2px solid blue;
+    /* padding: 10px 30px 100px 0px; */
+    padding: 10px;
+    margin: 40px;
+}
+#harmadik{
+    border: 2px solid green;
+    padding: 2em;
+    margin: 3rem;
+    font-family: akronim-regular;
+}
+.bekezdés{
+    text-decoration: underline;
+}
